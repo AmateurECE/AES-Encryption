@@ -13,4 +13,5 @@ encrypt binary, ascii, or any other type of file with a single command.
 The library hasn't been finished yet. Updates will be put here as more work is
 completed on it. New features will be noted here.
 
-<!-- ## Building ## -->
+<!-- TODO: ## Building ##
+-->
